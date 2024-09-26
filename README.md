@@ -62,10 +62,7 @@ The dataset is preprocessed using techniques like scaling, missing value handlin
 After preprocessing, the model is trained on the training dataset and evaluated on the test dataset.
 
 ## Results
-The model achieves an accuracy of **97%**, with the following key metrics:
-- **Precision**: 0.98
-- **Recall**: 0.96
-- **F1-Score**: 0.97
+The model achieves an accuracy of **97%**
 
 These results demonstrate the model's high performance in correctly identifying both benign and malignant cases.
 
